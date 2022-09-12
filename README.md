@@ -1,6 +1,7 @@
-# arduino-online-red-light-green-light
+# Arduino Red Light Green Light
 
 ## The project simulates the scene from the squid games
+
 [![Video of the scene](https://img.youtube.com/vi/sH4Y450PSVM/0.jpg)](https://www.youtube.com/watch?v=sH4Y450PSVM)
 
 
